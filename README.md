@@ -49,8 +49,3 @@ This repository contains the full thesis document and defense presentation for m
 - `README.md`: Project overview and documentation  
 - *(Optional)* `Interview_Guide.pdf`: Interview structure used  
 - *(Optional)* `Thematic_Diagram.png`: Visual representation of coding framework
-
-## 📚 Citation
-
-If you wish to cite this work:
-
