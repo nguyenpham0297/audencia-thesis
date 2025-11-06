@@ -45,8 +45,5 @@ This repository contains the full thesis document and defense presentation for m
 ## 📂 Repository Contents
 
 - [`Thesis - Phuc Nguyen PHAM.pdf`](https://github.com/nguyenpham0297/audencia-thesis/blob/main/Thesis%20-%20Phuc%20Nguyen%20PHAM.pdf): Full thesis document  
-- ## 📂 Repository Contents
-
-- [`Thesis - Phuc Nguyen PHAM.pdf`](https://github.com/nguyenpham0297/audencia-thesis/blob/main/Thesis%20-%20Phuc%20Nguyen%20PHAM.pdf): Full thesis document  
 - [`Thesis Defense Presentation`](https://docs.google.com/presentation/d/1oGf5VvszWukOYV1McCFQ9SnSYj0bExYARpOqyqapFjU/edit?slide=id.g19a6a8adf9d_1_662#slide=id.g19a6a8adf9d_1_662): Final defense slides (Google Slides)  
 - `README.md`: Project overview and documentation  
